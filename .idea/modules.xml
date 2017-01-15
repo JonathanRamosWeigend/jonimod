@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jonimod.iml" filepath="$PROJECT_DIR$/.idea/modules/jonimod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jonimod_api.iml" filepath="$PROJECT_DIR$/.idea/modules/jonimod_api.iml" group="jonimod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jonimod_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jonimod_main.iml" group="jonimod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jonimod_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jonimod_test.iml" group="jonimod" />
+    </modules>
+  </component>
+</project>

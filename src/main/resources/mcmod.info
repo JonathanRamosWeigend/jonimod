@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jonimod",
+  "name": "Jonimod",
+  "description": "Jonathans erste Mod",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jonathan"],
+  "credits": "Jonathan und Johannes",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
